@@ -533,7 +533,7 @@ export default function App() {
                 </div>
               </div>
 
-              <CTAButton text="Quero o Pacote Completo" href="https://ggcheckout.com.br/checkout/v5/wrrak98YxnpzCJaVQy3Z" />
+              <CTAButton text="Quero o Pacote Completo" href="https://ggcheckout.com.br/checkout/v5/VAJ5BNvfgvgFULBR3wB1" />
               
               <div className="mt-4 flex items-center justify-center gap-2 text-[10px] text-slate-400">
                 <ShieldCheck className="w-3 h-3 text-green-500" />
